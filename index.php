@@ -11,7 +11,7 @@
   echo "<h1>welcome to php</h1>";
   echo "Hello, world!";
   
-  echo "br";
+  echo '<br>';
 
   // simple variable
 
